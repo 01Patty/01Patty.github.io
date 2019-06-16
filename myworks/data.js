@@ -1,0 +1,1 @@
+var myData={designer:{name:'朱培',phone:'13662234475',tag:["#爱生活  #爱设计  #爱交友"],bg:'#c0c0c0'},gallery:[{src:"myworks/OWL-01.jpg",w:1667,h:1667},{src:"myworks/SMLIE-01.jpg",w:532,h:319},{src:"myworks/Struggle-01.jpg",w:532,h:319},{src:"myworks/whale-01.jpg",w:568,h:355},]}
